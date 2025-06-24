@@ -1,0 +1,5 @@
+# Redacted folders
+*.tmp
+/logs/
+/cache/
+/tmp/
